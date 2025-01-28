@@ -1,0 +1,15 @@
+{
+  "name": "MMM-MapTracker",
+  "version": "1.0.0",
+  "description": "A MagicMirror module for live location tracking from custom smarthphone app",
+  "main": "MMM-MapTracker.js",
+  "dependencies": {
+    "express": "^4.18.0",
+    "cors": "^2.8.5"
+  },
+  "scripts": {
+    "start": "node MMM-MapTracker.js"
+  },
+  "author": "Riku Partanen",
+  "license": "MIT"
+}
